@@ -1,2 +1,2 @@
-# LearningOpenThread
-This is my learning OpenThread records
+# Initial page
+
